@@ -278,6 +278,7 @@ nav>div {
 
 .sec-p{
   margin-top: 20px;
+  text-align: left;
 }
 
 /* ＝＝＝第二セクション＝＝＝ */
@@ -304,4 +305,31 @@ nav>div {
   .img-third {
     width: 100%;
   }
+
+  header nav{
+    white-space: nowrap;
+    width: 100%;
+    font-weight: 700;
+    text-align: right;
+  }
+
+  nav>div{
+    padding: 20px;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+  }
+
+.div-01{
+  text-decoration: underline black;
+}
+
+.div-02{
+  text-decoration: underline black;
+}
+
+.div-03{
+  text-decoration: underline black;
+}
+
 }
